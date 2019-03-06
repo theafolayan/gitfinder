@@ -1,4 +1,4 @@
-# gitfinder
+# Gitfinder
 A Simple script that lets you search for the profile of any Github user with a bit of other info such as recent repositories etc.
 
 # Languages Used
